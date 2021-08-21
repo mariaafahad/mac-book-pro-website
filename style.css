@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+button:hover{
+    background-color: black;
+    color: #fff;
+    transition: 0.3s;
+    transform:scale(1.1)
+}
+
+#apply-button{
+    background-color:powderblue;
+    color:black;
+}
